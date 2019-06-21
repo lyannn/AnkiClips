@@ -8,6 +8,7 @@ ffmpeg
 - Windows  
 Download [builds](https://ffmpeg.zeranoe.com/builds/)  
 extract and add path/to/ffmpeg.exe(like C:\Program Files\ffmpeg\bin) to system path.
+How to open [system path](https://www.architectryan.com/2018/03/17/add-to-the-path-on-windows-10/) in windows 10
 
 - linux
 - OSx
